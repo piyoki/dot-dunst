@@ -13,9 +13,9 @@
     offset = "15x15"
     padding = 15
     horizontal_padding = 15
-    icon_path = "/usr/lib/node_modules/material-design-icons/av/svg/production/:/usr/share/icons/Papirus-Dark/48x48/devices/"
-    # icon_theme = "breeze-dark, Papirus-Dark"
-    # enable_recursive_icon_lookup = true
+    # icon_path = "/usr/lib/node_modules/material-design-icons/av/svg/production/:/usr/share/icons/Papirus-Dark/48x48/devices/"
+    icon_theme = "breeze-dark, Papirus-Dark, Papirus"
+    enable_recursive_icon_lookup = true
     text_icon_padding = 15
     icon_position = "left"
     min_icon_size = 32
@@ -61,20 +61,20 @@
     per_monitor_dpi = false
 
 [urgency_low]
-    background = "#1C1D21"
+    background = "#0d1117"
     foreground = "#cdd6f4"
     highlight = "#737373"
     timeout = 10
 
 
 [urgency_normal]
-    background = "#1C1D21"
+    background = "#0d1117"
     foreground = "#cdd6f4"
     highlight = "#737373"
     timeout = 10
 
 [urgency_critical]
-    background = "#1C1D21"
+    background = "#0d1117"
     # background = "#484c54"
     foreground = "#cdd6f4"
     highlight = "#737373"
