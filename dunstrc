@@ -13,7 +13,7 @@
     offset = "15x15"
     padding = 15
     horizontal_padding = 15
-    icon_path = "./icons/"
+    icon_path = "/home/kev/.config/dunst/icons/"
     # icon_theme = "Papirus-Dark"
     # enable_recursive_icon_lookup = true
     text_icon_padding = 15
