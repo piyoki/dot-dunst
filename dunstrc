@@ -13,9 +13,9 @@
     offset = "15x15"
     padding = 15
     horizontal_padding = 15
-    # icon_path = "/usr/lib/node_modules/material-design-icons/av/svg/production/:/usr/share/icons/Papirus-Dark/48x48/devices/"
-    icon_theme = "breeze-dark, Papirus-Dark, Papirus"
-    enable_recursive_icon_lookup = true
+    icon_path = "./icons/"
+    # icon_theme = "Papirus-Dark"
+    # enable_recursive_icon_lookup = true
     text_icon_padding = 15
     icon_position = "left"
     min_icon_size = 32
