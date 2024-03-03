@@ -38,7 +38,7 @@
     history_length = 20
     show_age_threshold = 60
     markup = "full"
-    font = "JetBrainsMono Nerd font 8"
+    font = "JetBrainsMono Nerd font 10"
     format = "<b>%s</b>\n%b"
     word_wrap = "yes"
     sort = "yes"
